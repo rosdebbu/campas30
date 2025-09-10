@@ -1,0 +1,7 @@
+{
+  "name": "LocalAlert Pro - Campus Compass",
+  "description": "An interactive campus guide for SRMIST Potheri, providing students with AI-powered navigation, real-time updates on facilities, events, and news.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
